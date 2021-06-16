@@ -1,0 +1,82 @@
+{
+  "0e93b819cc2e8121f7281dc8e4eaaf78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "affb262ee0c3cb5e",
+      "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/1//#testresult/affb262ee0c3cb5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623834787557,
+        "stop" : 1623834787557,
+        "duration" : 0
+      }
+    } ]
+  },
+  "753cdf21aa3257d3e2249d83346a13e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf214ff67222b712",
+      "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/1//#testresult/cf214ff67222b712",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623834787556,
+        "stop" : 1623834787556,
+        "duration" : 0
+      }
+    } ]
+  },
+  "77caee529814bb5616db6b28df37c87c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c479e002a6e405a",
+      "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/1//#testresult/8c479e002a6e405a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623834787555,
+        "stop" : 1623834787555,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0cc1fa42e1c19a0d3fd610d45c4ba65a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "517665db460aaa18",
+      "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/1//#testresult/517665db460aaa18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623834787553,
+        "stop" : 1623834787553,
+        "duration" : 0
+      }
+    } ]
+  }
+}
