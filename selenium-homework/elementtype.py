@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-driver = webdriver.Edge("D:\edge\msedgedriver.exe")
+driver = webdriver.Chrome()
 
 try:
     driver.get("http://localhost:9999/trickyelements.html")
