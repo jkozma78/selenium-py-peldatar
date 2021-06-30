@@ -1,0 +1,162 @@
+{
+  "uid" : "5e73d087ce90da04",
+  "name" : "test_add_positive",
+  "fullName" : "testproject.test_mymath#test_add_positive",
+  "historyId" : "0cc1fa42e1c19a0d3fd610d45c4ba65a",
+  "time" : {
+    "start" : 1625028272324,
+    "stop" : 1625028272325,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-985"
+  }, {
+    "name" : "thread",
+    "value" : "3083-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa51dae1df0fc12a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625028272065,
+        "stop" : 1625028272065,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "8c6f99bb2b304754",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/10//#testresult/8c6f99bb2b304754",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624984886129,
+          "stop" : 1624984886129,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1a30d28b0bf75a26",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/9//#testresult/1a30d28b0bf75a26",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624374519427,
+          "stop" : 1624374519427,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "fe62f087e61ce46a",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/8//#testresult/fe62f087e61ce46a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624374452438,
+          "stop" : 1624374452438,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "708f3bd40df36bdb",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/7//#testresult/708f3bd40df36bdb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624374335419,
+          "stop" : 1624374335420,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "6cff92e0b9298afe",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/6//#testresult/6cff92e0b9298afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624374253256,
+          "stop" : 1624374253256,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "148bdd8e7b659ed4",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/5//#testresult/148bdd8e7b659ed4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624302404858,
+          "stop" : 1624302404858,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8d05e62356b42204",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/4//#testresult/8d05e62356b42204",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623962511683,
+          "stop" : 1623962511683,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "738e110166ac585d",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/3//#testresult/738e110166ac585d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623918796912,
+          "stop" : 1623918796912,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "93109385b6abf7d8",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/2//#testresult/93109385b6abf7d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623842080483,
+          "stop" : 1623842080483,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "517665db460aaa18",
+        "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/1//#testresult/517665db460aaa18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623834787553,
+          "stop" : 1623834787553,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5e73d087ce90da04.json",
+  "parameterValues" : [ ]
+}
