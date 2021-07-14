@@ -4,6 +4,11 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/13/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 12,
   "reportUrl" : "https://jkozma78.github.io/selenium-py-peldatar/12/",
   "reportName" : "Allure Report with history",
